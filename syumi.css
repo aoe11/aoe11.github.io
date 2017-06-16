@@ -1,0 +1,40 @@
+body{
+  background-image: url("./img/back01.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1{
+  font-size: 40px;
+  color: red;
+  background-color: aquamarine;
+  padding: 15px;
+}
+
+.content{
+  background-color: dimgray;
+  color: white;
+  padding: 15px;
+}
+
+.header{
+  background-size: cover;
+  background-color: orange;
+  color: white;
+  width: 100%;
+  font-size: 30px;
+  text-align: center;
+  font-size: 40px;
+  font-family: serif;
+  font-weight: bold;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.panel{
+  width: 50%;
+  padding: 10px;
+  float: center;
+}

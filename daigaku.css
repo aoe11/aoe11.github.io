@@ -1,0 +1,27 @@
+body{
+  background-image: url("./img/back06.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.header{
+  background-size: cover;
+  background-color: orange;
+  color: white;
+  width: 100%;
+  font-size: 30px;
+  text-align: center;
+  font-size: 40px;
+  font-family: serif;
+  font-weight: bold;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.content{
+  padding: 100px;
+  background-color: dodgerblue;
+  width: 50%;
+}
